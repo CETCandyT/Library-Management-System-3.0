@@ -1,0 +1,57 @@
+14,To Kill a Mockingbird,Harper Lee,12345,false,2024-04-06
+15,Pride and Prejudice,Jane Austen,24681,true,null
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-17
+11,Divergent,Veronica Roth,20245,true,null
+14,To Kill a Mockingbird,Harper Lee,12345,true,null
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-22
+11,Divergent,Veronica Roth,20245,true,null
+14,To Kill a Mockingbird,Harper Lee,12345,true,null
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-28
+11,Divergent,Veronica Roth,20245,true,null
+14,To Kill a Mockingbird,Harper Lee,12345,true,null
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-28
+11,Divergent,Veronica Roth,20245,true,null
+14,To Kill a Mockingbird,Harper Lee,12345,true,null
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-29
+11,Divergent,Veronica Roth,20245,true,null
+14,To Kill a Mockingbird,Harper Lee,12345,true,null
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-29
+11,Divergent,Veronica Roth,20245,true,null
+14,To Kill a Mockingbird,Harper Lee,12345,true,null
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-29
+11,Divergent,Veronica Roth,20245,true,null
+14,To Kill a Mockingbird,Harper Lee,12345,true,null
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-29
+11,Divergent,Veronica Roth,20245,true,null
+14,To Kill a Mockingbird,Harper Lee,12345,true,null
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-29
+11,Divergent,Veronica Roth,20245,true,null
+14,To Kill a Mockingbird,Harper Lee,12345,true,null
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-29
+11,Divergent,Veronica Roth,20245,true,null
+14,To Kill a Mockingbird,Harper Lee,12345,true,null
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-29
+11,Divergent,Veronica Roth,20245,true,null
+14,To Kill a Mockingbird,Harper Lee,12345,true,null
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-29
+11,Divergent,Veronica Roth,20245,true,null
+14,To Kill a Mockingbird,Harper Lee,12345,true,null
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-29
+11,Divergent,Veronica Roth,20245,true,null
+14,To Kill a Mockingbird,Harper Lee,12345,true,null
+15,Pride and Prejudice,Jane Austen,24681,false,2024-03-30

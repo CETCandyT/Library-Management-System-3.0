@@ -1,0 +1,11 @@
+1,The Catcher in the Rye ,Jane Austen ,20216,true,null
+2,The Tale of Peter Rabbit,Beatrix Potter,56579,true,null
+3,To Kill a Mockingbird ,Harper Lee,12345,true,null
+4,1984,George Orwell,10116,true,null
+5,The Hunger Games,Suzanne Collins,97804,true,null
+6,Harry Potter and the Philosopher's Stone,J.K. Rowling,97805,true,null
+7,Harry Potter and the Sorcerer's Stone,J.K. Rowling,97805,true,null
+8,The Da Vinci Code,Dan Brown,50561,true,null
+9,The Hobbit,J.R.R. Tolkien,95801,true,null
+10,The Lord of the Rings,J.R.R. Tolkien,10156,false,2024-04-21
+11,The Girl with the Dragon Tattoo,Stieg Larsson,72119,true,null
